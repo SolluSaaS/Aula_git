@@ -1,0 +1,2 @@
+Ver.: 1.0 - 240729:1150
+Replicação de Repo local para o Github
